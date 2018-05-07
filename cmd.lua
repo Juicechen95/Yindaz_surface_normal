@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 th main_test.lua -test_model '/home/chenzhij/project/yindaz_3dSN/surface_normal/model/sync_physic_nyufinetune.t7' -batch_size 1 -result_path './result/test' 
